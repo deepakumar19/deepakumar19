@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWU0czgxZWdmZDlhMXNxcjh4cWN3b2pqdHoxcTZramJucnB1bXZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/deepa-ashok-kumar-18768677/">
@@ -53,3 +53,6 @@ I’m a passionate front-end developer <img src="https://media.giphy.com/media/W
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakumar19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <img src="https://ugokawaii.com/wp-content/uploads/2023/03/nice-to-meet-you.gif" width="600" height="300"/>
+</div>
